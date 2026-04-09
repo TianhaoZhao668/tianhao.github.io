@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Tianhao Zhao"
-description              : "Personal Homepage. "
-repository               : "TianhaoZhao668/tianhao.github.io"
+description              : "a PhD student at Huazhong University of Science and Technology(HUST). Focusing on 3D generation."
+repository               : "TianhaoZhao668/TianhaoZhao668.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianhao Zhao"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/my_image.png"
   bio              : "Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/TianhaoZhao668"
   google_plus      :
   keybase          :
   instagram        :
