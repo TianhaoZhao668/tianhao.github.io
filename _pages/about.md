@@ -29,7 +29,7 @@ Apart from my research, I enjoy playing Valorant, where I often take on the role
 
 # 📝 Publications 
 **Equal contribution⋆  Corresponding author$\dagger$**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArxiV 2026</div><img src='images/lato.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/lato.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents](https://arxiv.org/pdf/2603.06357)
@@ -57,4 +57,4 @@ Apart from my research, I enjoy playing Valorant, where I often take on the role
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.05 - Present*, Generative AI researcher, Meshy.
+- *2026.05 - Present*, Generative AI researcher intern, Meshy.
